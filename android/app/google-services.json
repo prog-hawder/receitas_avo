@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742737093342",
+    "project_id": "malu-45243",
+    "storage_bucket": "malu-45243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742737093342:android:1eb19eee4a83dd83d7584f",
+        "android_client_info": {
+          "package_name": "com.example.receitas_avo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742737093342-frsuc1gc5ju5kg8j87kjdgtb8out971t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzjsXWAPeMXwqi2k3KLAUuQ8p2FyZM5Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742737093342-frsuc1gc5ju5kg8j87kjdgtb8out971t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
